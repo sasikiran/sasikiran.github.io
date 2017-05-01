@@ -1,130 +1,140 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
-<channel>
-<title>
-<![CDATA[ Sasi Kiran Malladi ]]>
-</title>
-<description>
-<![CDATA[ Thoughts, stories and ideas. ]]>
-</description>
-<link>http://www.sasikiran.in/</link>
-<generator>Ghost 0.7</generator>
-<lastBuildDate>Sat, 04 Jun 2016 08:31:54 GMT</lastBuildDate>
-<atom:link href="http://www.sasikiran.in/rss/index.rss" rel="self" type="application/rss+xml"/>
-<ttl>60</ttl>
-<item>
-<title>
-<![CDATA[
-Flight search and partial payment UX using Messenger bot
-]]>
-</title>
-<description>
-<![CDATA[
-<p>I'm not a big fan of chatbots. However, this UX concept designed by <a href="https://dribbble.com/isiluzum">Isil Uzum</a> with a Virgin Atlantic Messenger bot is very clever. </p> <p>The premise is this -- John and Kathy while chatting on Messenger, think of buying flight tickets. Kathy launches flight search using =flight search shortcut. This</p>
-]]>
-</description>
-<link>
-http://www.sasikiran.in/flight-search-partial-payment-using-messenger-bot/
-</link>
-<guid isPermaLink="false">60762202-7e13-4e7f-b521-26dffc93e43a</guid>
-<category>
-<![CDATA[ chatbot ]]>
-</category>
-<category>
-<![CDATA[ Facebook ]]>
-</category>
-<category>
-<![CDATA[ Messenger ]]>
-</category>
-<category>
-<![CDATA[ Flight ]]>
-</category>
-<category>
-<![CDATA[ search ]]>
-</category>
-<dc:creator>
-<![CDATA[ Sasi Kiran Malladi ]]>
-</dc:creator>
-<pubDate>Wed, 01 Jun 2016 16:56:54 GMT</pubDate>
-<content:encoded>
-<![CDATA[
-<p>I'm not a big fan of chatbots. However, this UX concept designed by <a href="https://dribbble.com/isiluzum">Isil Uzum</a> with a Virgin Atlantic Messenger bot is very clever. </p> <p>The premise is this -- John and Kathy while chatting on Messenger, think of buying flight tickets. Kathy launches flight search using =flight search shortcut. This triggers the flight bot, Virgin Atlantic in this case. Kathy gets to choose between Skyscanner and Kayak search engines for flights. She even makes Skyscanner as the default search engine. Then, she chooses a flight from JFK to SEA along with to and from dates and makes it for 2 pax. Both John and Kathy get to fill in the passenger information and choose partial payment. Kathy only pays half the total price. When both John and Kathy finish paying, their ticket confirmation pass is shown in the chat itself.</p> <p>See the concept <a href="https://dribbble.com/shots/2749390-Messenger-Bots-Partial-payment-Concept">here</a>.</p> <p>P.S. The GIF image is 7.5 MB and it may take some time to load the complete demo. </p>
-]]>
-</content:encoded>
-</item>
-<item>
-<title>
-<![CDATA[ My bucket list ]]>
-</title>
-<description>
-<![CDATA[
-<p>Everyone needs to have one. I will strike-off the items that I have completed. Also, this keeps a check on the progress I make year after the year.</p> <ul> <li><del>Learn to drive a car</del></li> <li><del>Go on a long drive</del></li> <li><del>Learn Swift</del></li> <li><del>Learn Ruby on Rails</del></li> <li><del>Become a dependable photographer</del></li> <li><del>Learn to</del></li></ul>
-]]>
-</description>
-<link>http://www.sasikiran.in/my-bucket-list/</link>
-<guid isPermaLink="false">928e2137-2eda-4c31-8aad-5b336d2e47c0</guid>
-<category>
-<![CDATA[ Life ]]>
-</category>
-<dc:creator>
-<![CDATA[ Sasi Kiran Malladi ]]>
-</dc:creator>
-<pubDate>Mon, 15 Jun 2015 12:00:00 GMT</pubDate>
-<content:encoded>
-<![CDATA[
-<p>Everyone needs to have one. I will strike-off the items that I have completed. Also, this keeps a check on the progress I make year after the year.</p> <ul> <li><del>Learn to drive a car</del></li> <li><del>Go on a long drive</del></li> <li><del>Learn Swift</del></li> <li><del>Learn Ruby on Rails</del></li> <li><del>Become a dependable photographer</del></li> <li><del>Learn to cook my favourite recipes</del></li> <li><del>Be more social</del></li> <li><del>Finish writing a short story</del></li> <li><del>Give a presentation to 20+ people</del></li> <li><del>Buy an iPhone, iPad, Macbook Pro and AppleTV</del></li> <li><del>Adopt a pet</del></li> <li><del>Cook for the wife</del></li> <li><del>Sponsor food / education for the less unfortunate</del></li> <li>Spend few days somewhere, far away from technology</li> <li>Climb a mountain</li> <li>Compile a holiday / vacation video</li> <li>Attend a music concert</li> <li>Attend WWDC in San Francisco</li> <li>Drive a luxury car</li> <li>Visit New York</li> <li>Visit Apple headquarters in Cupertino</li> <li>Visit Switzerland</li> <li>Author a book</li> <li>Buy a house</li> </ul>
-]]>
-</content:encoded>
-</item>
-<item>
-<title>
-<![CDATA[ 30 ]]>
-</title>
-<description>
-<![CDATA[
-<p>I turned 30 today. The following is a "Previously, on Sasi's life..." explained in a 30 second time-lapse mode. Grab some popcorn, OK?</p> <ul> <li>Born</li> <li>Crawled</li> <li>Walked</li> <li>Had stitches on my forehead</li> <li>Lost my baby teeth</li> <li>Went to elementary school</li> <li>Made good friends at school</li> <li>Got good at studies</li> <li>Went to</li></ul>
-]]>
-</description>
-<link>http://www.sasikiran.in/30/</link>
-<guid isPermaLink="false">36012e10-b719-431d-be7c-f6256f1863a4</guid>
-<category>
-<![CDATA[ Life ]]>
-</category>
-<dc:creator>
-<![CDATA[ Sasi Kiran Malladi ]]>
-</dc:creator>
-<pubDate>Wed, 07 Jan 2015 15:39:00 GMT</pubDate>
-<content:encoded>
-<![CDATA[
-<p>I turned 30 today. The following is a "Previously, on Sasi's life..." explained in a 30 second time-lapse mode. Grab some popcorn, OK?</p> <ul> <li>Born</li> <li>Crawled</li> <li>Walked</li> <li>Had stitches on my forehead</li> <li>Lost my baby teeth</li> <li>Went to elementary school</li> <li>Made good friends at school</li> <li>Got good at studies</li> <li>Went to high school</li> <li>Got eye sight</li> <li>Grandma gifted me a bicycle</li> <li>Learned playing veena</li> <li>Sold off my bicycle</li> <li>Played cricket</li> <li>Played video games</li> <li>Lost my cricket bat</li> <li>Learned BASIC</li> <li>Discovered Internet</li> <li>Went to Intermediate college</li> <li>Made good friends at the college</li> <li>Grandma gifted me a PC</li> <li>Went to an engineering college</li> <li>Made good friends at the college</li> <li>Learned C and Java as part of the curriculum</li> <li>Taught C++ myself</li> <li>Started Game programming</li> <li>Wrote a software rasteriser in C++</li> <li>Made art using Bryce and Poser</li> <li>Upgraded and assembled my PC</li> <li>Was thrilled to see my posts appear in a popular IT magazine</li> <li>Switched to Linux</li> <li>Spent way too much time switching between SUSE and Ubuntu</li> <li>Switched back to Windows</li> <li>Taught Photoshop myself</li> <li>Designed a Mac OS look alike desktop theme for Windows</li> <li>Joined MSIT</li> <li>Quit MSIT</li> <li>Started working as a C programmer</li> <li>Quit my first job</li> <li>Had to live in hospitals when both mom and grandma didn’t do well</li> <li>Learned to cook</li> <li>Joined 9atoms as a C programmer</li> <li>Switched to a Mac</li> <li>Learned Objective-C</li> <li>Made my first iOS app</li> <li>Made good friends at 9atoms</li> <li>Worked on a game at Sierra Atlantic briefly as an iOS Consultant</li> <li>Switched back to 9atoms, got promoted as a senior engineer</li> <li>Made several iOS apps</li> <li>Joined a car driving course; learned nothing</li> <li>Purchased my first car, a Volkswagen.</li> <li>Friends taught me car driving; still learned nothing</li> <li>Got my car a dent</li> <li>Lost my grandma</li> <li>Got myself an iPhone</li> <li>Made WeatherNeue</li> <li>Joined PurpleTalk as a Technical Lead</li> <li>Worked on interesting apps</li> <li>Made good friends at PurpleTalk</li> <li>Got bitten by the shutterbug; purchased a Sony α DSLR</li> <li>Met the girl I would marry</li> <li>Got engaged</li> <li>Finally learned to drive; thanks to the long distance from my home to my fiancé’s</li> <li>Got married</li> <li>Went to Thailand for vacation</li> <li>Came back to Hyderabad</li> <li>Wife moved in</li> <li>Brought home Mickey, our adorable lhasa apso puppy</li> <li>Had a memorable the-first-birthday-after-being-married</li> <li>Had a memorable first anniversary</li> <li>Tasted wine</li> <li>Taught myself Rails and Swift</li> <li>Turned 30</li> </ul> <p>Here’s to another 30.</p>
-]]>
-</content:encoded>
-</item>
-<item>
-<title>
-<![CDATA[ Minority Report ]]>
-</title>
-<description>
-<![CDATA[
-How Minority Report rightly predicted the future that we are in today!
-]]>
-</description>
-<link>http://www.sasikiran.in/minority-report/</link>
-<guid isPermaLink="false">c05884ed-dee2-40c1-9e1f-d9ff48233556</guid>
-<category>
-<![CDATA[ Movies ]]>
-</category>
-<category>
-<![CDATA[ Sci-Fi ]]>
-</category>
-<dc:creator>
-<![CDATA[ Sasi Kiran Malladi ]]>
-</dc:creator>
-<pubDate>Wed, 01 May 2013 04:35:00 GMT</pubDate>
-<content:encoded>
-<![CDATA[
-<p>When Minority Report came in 2002, it had ultra-thin touch screens, gestures: swiping, pinch to zoom, Kinect / leap motion, Siri / Google Now like AI assistants, wearable computer gadgets like the  watch / Google Glass, self driving cars etc. Today, in 2014, we live in a world where all of that fantasized future we once had, is actually a reality.</p> <p>I’m not really a Spielberg fan but I wonder whether he actually foresaw that the future would be something like this, or was this a purely coincidence and part of his researched script? If Spielberg did actually predict it right, well that’s really brilliant! I would want him to make Minority Report 2 as well, so that we can have a peek into our future once again. <br> I’ve seen other sci-fi movie directors, who took way too much liberty and introduced concepts like teleportation, time travel etc. I have a feeling that these things would remain a human fantasy for a long time and may not see the light.</p> <p>There are also movies such as <a href="https://www.youtube.com/watch?v=oYziuMU2Ubs">Aditya 369</a> or the very recent <a href="http://www.imdb.com/title/tt1483013">Oblivion</a>, where after an apocalypse, the survivors would be seen wearing a silver colored pinstripe jump suit with boots! Actually, Jerry Seinfeld made <a href="https://www.youtube.com/watch?v=ceRsfMaQ4r0">a joke</a> on this.</p>
-]]>
-</content:encoded>
-</item>
-</channel>
-</rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/"><channel><title><![CDATA[Sasi Kiran Malladi]]></title><description><![CDATA[Thoughts, stories and ideas.]]></description><link>http://www.sasikiran.in/</link><generator>Ghost 0.7</generator><lastBuildDate>Mon, 01 May 2017 04:51:48 GMT</lastBuildDate><atom:link href="http://www.sasikiran.in/rss/" rel="self" type="application/rss+xml"/><ttl>60</ttl><item><title><![CDATA[Flight search and partial payment UX using Messenger bot]]></title><description><![CDATA[<p>I'm not a big fan of chatbots. However, this UX concept designed by <a href="https://dribbble.com/isiluzum">Isil Uzum</a> with a Virgin Atlantic Messenger bot is very clever. </p>
+
+<p>The premise is this -- <br>
+John and Kathy while chatting on Messenger, think of buying flight tickets. Kathy launches flight search using =flight search shortcut. This</p>]]></description><link>http://www.sasikiran.in/flight-search-partial-payment-using-messenger-bot/</link><guid isPermaLink="false">60762202-7e13-4e7f-b521-26dffc93e43a</guid><category><![CDATA[Design]]></category><dc:creator><![CDATA[Sasi Kiran Malladi]]></dc:creator><pubDate>Wed, 01 Jun 2016 16:56:54 GMT</pubDate><content:encoded><![CDATA[<p>I'm not a big fan of chatbots. However, this UX concept designed by <a href="https://dribbble.com/isiluzum">Isil Uzum</a> with a Virgin Atlantic Messenger bot is very clever. </p>
+
+<p>The premise is this -- <br>
+John and Kathy while chatting on Messenger, think of buying flight tickets. Kathy launches flight search using =flight search shortcut. This triggers the flight bot, Virgin Atlantic in this case. Kathy gets to choose between Skyscanner and Kayak search engines for flights. She even makes Skyscanner as the default search engine. Then, she chooses a flight from JFK to SEA along with the start and end dates and makes it for 2 pax. Both John and Kathy get to fill in the passenger information and choose partial payment. Kathy only makes a partial payment. When both John and Kathy finish paying, their ticket confirmation pass is shown in the chat itself.</p>
+
+<p>See the concept <a href="https://dribbble.com/shots/2749390-Messenger-Bots-Partial-payment-Concept">here</a>.</p>
+
+<p>P.S. The GIF image is 7.5 MB and it may take some time to load the complete demo. </p>]]></content:encoded></item><item><title><![CDATA[My bucket list]]></title><description><![CDATA[<p>Everyone needs to have one. I will strike-off the items that I have completed. Also, this keeps a check on the progress I make year after the year.</p>
+
+<ul>
+<li><del>Learn to drive a car</del></li>
+<li><del>Go on a long drive</del></li>
+<li><del>Learn Swift</del></li>
+<li><del>Learn Ruby on Rails</del></li>
+<li><del>Become a dependable photographer</del></li>
+<li><del>Learn to</del></li></ul>]]></description><link>http://www.sasikiran.in/my-bucket-list/</link><guid isPermaLink="false">928e2137-2eda-4c31-8aad-5b336d2e47c0</guid><category><![CDATA[Life]]></category><dc:creator><![CDATA[Sasi Kiran Malladi]]></dc:creator><pubDate>Mon, 15 Jun 2015 12:00:00 GMT</pubDate><content:encoded><![CDATA[<p>Everyone needs to have one. I will strike-off the items that I have completed. Also, this keeps a check on the progress I make year after the year.</p>
+
+<ul>
+<li><del>Learn to drive a car</del></li>
+<li><del>Go on a long drive</del></li>
+<li><del>Learn Swift</del></li>
+<li><del>Learn Ruby on Rails</del></li>
+<li><del>Become a dependable photographer</del></li>
+<li><del>Learn to cook my favourite recipes</del></li>
+<li><del>Finish writing a short story</del></li>
+<li><del>Give a presentation to 20+ people</del></li>
+<li><del>Buy an iPhone, iPad, Macbook Pro and AppleTV</del></li>
+<li><del>Adopt a pet</del></li>
+<li><del>Cook for the wife</del></li>
+<li><del>Sponsor food / education for the less unfortunate</del></li>
+<li>Spend few days somewhere, far away from technology</li>
+<li>Climb a mountain</li>
+<li>Compile a holiday / vacation video</li>
+<li>Attend a music concert</li>
+<li><del>Attend WWDC in San Francisco</del></li>
+<li>Drive a luxury car</li>
+<li>Visit New York</li>
+<li>Visit Apple headquarters in Cupertino</li>
+<li>Visit Switzerland</li>
+<li>Author a book</li>
+<li>Buy a house</li>
+</ul>]]></content:encoded></item><item><title><![CDATA[30]]></title><description><![CDATA[<p>I turned 30 today. The following is a "Previously, on Sasi's life..." explained in a 30 second time-lapse mode. Grab some popcorn, OK?</p>
+
+<ul>
+<li>Born</li>
+<li>Crawled</li>
+<li>Walked</li>
+<li>Had stitches on my forehead</li>
+<li>Lost my baby teeth</li>
+<li>Went to elementary school</li>
+<li>Made good friends at school</li>
+<li>Got good at studies</li>
+<li>Went to</li></ul>]]></description><link>http://www.sasikiran.in/30/</link><guid isPermaLink="false">36012e10-b719-431d-be7c-f6256f1863a4</guid><category><![CDATA[Life]]></category><dc:creator><![CDATA[Sasi Kiran Malladi]]></dc:creator><pubDate>Wed, 07 Jan 2015 15:39:00 GMT</pubDate><content:encoded><![CDATA[<p>I turned 30 today. The following is a "Previously, on Sasi's life..." explained in a 30 second time-lapse mode. Grab some popcorn, OK?</p>
+
+<ul>
+<li>Born</li>
+<li>Crawled</li>
+<li>Walked</li>
+<li>Had stitches on my forehead</li>
+<li>Lost my baby teeth</li>
+<li>Went to elementary school</li>
+<li>Made good friends at school</li>
+<li>Got good at studies</li>
+<li>Went to high school</li>
+<li>Got eye sight</li>
+<li>Grandma gifted me a bicycle</li>
+<li>Learned playing veena</li>
+<li>Sold off my bicycle</li>
+<li>Played cricket</li>
+<li>Played video games</li>
+<li>Lost my cricket bat</li>
+<li>Learned BASIC</li>
+<li>Discovered Internet</li>
+<li>Went to Intermediate college</li>
+<li>Made good friends at the college</li>
+<li>Grandma gifted me a PC</li>
+<li>Went to an engineering college</li>
+<li>Made good friends at the college</li>
+<li>Learned C and Java as part of the curriculum</li>
+<li>Taught C++ myself</li>
+<li>Started Game programming</li>
+<li>Wrote a software rasteriser in C++</li>
+<li>Made art using Bryce and Poser</li>
+<li>Upgraded and assembled my PC</li>
+<li>Was thrilled to see my posts appear in a popular IT magazine</li>
+<li>Switched to Linux</li>
+<li>Spent way too much time switching between SUSE and Ubuntu</li>
+<li>Switched back to Windows</li>
+<li>Taught Photoshop myself</li>
+<li>Designed a Mac OS look alike desktop theme for Windows</li>
+<li>Joined MSIT</li>
+<li>Quit MSIT</li>
+<li>Started working as a C programmer</li>
+<li>Quit my first job</li>
+<li>Had to live in hospitals when both mom and grandma didn’t do well</li>
+<li>Learned to cook</li>
+<li>Joined 9atoms as a C programmer</li>
+<li>Switched to a Mac</li>
+<li>Learned Objective-C</li>
+<li>Made my first iOS app</li>
+<li>Made good friends at 9atoms</li>
+<li>Worked on a game at Sierra Atlantic briefly as an iOS Consultant</li>
+<li>Switched back to 9atoms, got promoted as a senior engineer</li>
+<li>Made several iOS apps</li>
+<li>Joined a car driving course; learned nothing</li>
+<li>Purchased my first car, a Volkswagen.</li>
+<li>Friends taught me car driving; still learned nothing</li>
+<li>Got my car a dent</li>
+<li>Lost my grandma</li>
+<li>Got myself an iPhone</li>
+<li>Made WeatherNeue</li>
+<li>Joined PurpleTalk as a Technical Lead</li>
+<li>Worked on interesting apps</li>
+<li>Made good friends at PurpleTalk</li>
+<li>Got bitten by the shutterbug; purchased a Sony α DSLR</li>
+<li>Met the girl I would marry</li>
+<li>Got engaged</li>
+<li>Finally learned to drive; thanks to the long distance from my home to my fiancé’s</li>
+<li>Got married</li>
+<li>Went to Thailand for vacation</li>
+<li>Came back to Hyderabad</li>
+<li>Wife moved in</li>
+<li>Brought home Mickey, our adorable lhasa apso puppy</li>
+<li>Had a memorable the-first-birthday-after-being-married</li>
+<li>Had a memorable first anniversary</li>
+<li>Tasted wine</li>
+<li>Taught myself Rails and Swift</li>
+<li>Turned 30</li>
+</ul>
+
+<p>Here’s to another 30.</p>]]></content:encoded></item><item><title><![CDATA[Minority Report]]></title><description><![CDATA[How Minority Report rightly predicted the future that we are in today!]]></description><link>http://www.sasikiran.in/minority-report/</link><guid isPermaLink="false">c05884ed-dee2-40c1-9e1f-d9ff48233556</guid><category><![CDATA[Movies]]></category><dc:creator><![CDATA[Sasi Kiran Malladi]]></dc:creator><pubDate>Wed, 01 May 2013 04:35:00 GMT</pubDate><content:encoded><![CDATA[<p>When Minority Report came in 2002, it had ultra-thin touch screens, gestures: swiping, pinch to zoom, Kinect / leap motion, Siri / Google Now like AI assistants, wearable computer gadgets like the  watch / Google Glass, self driving cars etc. Today, in 2014, we live in a world where all of that fantasized future we once had, is actually a reality.</p>
+
+<p>I’m not really a Spielberg fan but I wonder whether he actually foresaw that the future would be something like this, or was this a purely coincidence and part of his researched script? If Spielberg did actually predict it right, well that’s really brilliant! I would want him to make Minority Report 2 as well, so that we can have a peek into our future once again. <br>
+I’ve seen other sci-fi movie directors, who took way too much liberty and introduced concepts like teleportation, time travel etc. I have a feeling that these things would remain a human fantasy for a long time and may not see the light.</p>
+
+<p>There are also movies such as <a href="https://www.youtube.com/watch?v=oYziuMU2Ubs">Aditya 369</a> or the very recent <a href="http://www.imdb.com/title/tt1483013">Oblivion</a>, where after an apocalypse, the survivors would be seen wearing a silver colored pinstripe jump suit with boots! Actually, Jerry Seinfeld made <a href="https://www.youtube.com/watch?v=ceRsfMaQ4r0">a joke</a> on this.</p>]]></content:encoded></item></channel></rss>
